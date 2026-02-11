@@ -1,6 +1,6 @@
 # AI-Suite-Equalizer
 
-Version 1.0.3
+![alt text](images/vst.png)
 
 ## About
 
@@ -37,3 +37,12 @@ Open a terminal (cmd, powershell, bash, etc) and run the following commands
    mkdir build
    cmake --build build --target AnalogEQ_VST3
    ```
+
+## Future features
+
+- [ ] phasing
+- [ ] stereo
+
+## AI-Suite project
+
+UI folder will migrate into a separate repository to share the design system with other plugins.

@@ -41,7 +41,7 @@ AudioPluginAudioProcessorEditor::AudioPluginAudioProcessorEditor(AudioPluginAudi
         processorRef.getAPVTS(), "auto_gain", autoGainToggle);
     
     // Setup title label
-    titleLabel.setText("ANALOG EQ v", juce::dontSendNotification);
+    titleLabel.setText("ANALOG EQ", juce::dontSendNotification);
     titleLabel.setFont(juce::FontOptions(24.0f, juce::Font::bold));
     titleLabel.setColour(juce::Label::textColourId, ModernLookAndFeel::ColorScheme::text);
     titleLabel.setJustificationType(juce::Justification::centred);
