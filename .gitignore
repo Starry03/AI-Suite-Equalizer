@@ -1,0 +1,44 @@
+# Build directories
+build/
+cmake-build-*/
+Builds/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# JUCE generated files
+JuceLibraryCode/
+
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+
+# VST/AU plugin files (except distributed ones)
+*.vst3
+*.component
+*.aaxplugin
