@@ -1,4 +1,4 @@
-# AI 
+# AI-Suite-Equalizer
 
 Version 1.0.3
 
@@ -37,5 +37,3 @@ Open a terminal (cmd, powershell, bash, etc) and run the following commands
    mkdir build
    cmake --build build --target AnalogEQ_VST3
    ```
-
-## 
